@@ -1,0 +1,1 @@
+ ![sdlc benchmark](picture1.svg "sdlc benchmark")
