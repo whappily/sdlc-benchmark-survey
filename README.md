@@ -1,6 +1,6 @@
  ![sdlc benchmark](sdlc.svg "sdlc benchmark")
 
-## TL;DR
+## Summary
 
 This paper provides a comprehensive review of existing Code Large Language Models (CodeLLMs) and associated proxy benchmarks, systematically analyzing 181 benchmarks drawn from 461 relevant publications. These benchmarks span different stages of the Software Development Lifecycle (SDLC).
 This repository serves as supplementary material by offering the complete citation library of surveyed literature alongside detailed information on all the benchmarks investigated.
@@ -13,7 +13,7 @@ This repository serves as supplementary material by offering the complete citati
     - survey-papers.bib
     - SDLC-Benchmarks.xlsx
 - README.md
-- software-engineering-benchmark-leaderboard.md
+- Software-engineering-benchmark-leaderboard.md
 ```
 
 ## BibTeX Reference Libraries
